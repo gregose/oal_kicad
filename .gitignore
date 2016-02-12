@@ -5,6 +5,7 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
+.DS_Store
 
 # Netlist files (exported from Eeschema)
 *.net
