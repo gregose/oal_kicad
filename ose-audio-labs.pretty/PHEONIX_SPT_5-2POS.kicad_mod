@@ -16,4 +16,9 @@
   (pad 1 thru_hole circle (at -2.5 4.1) (size 1.8 1.8) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.5 -4.1) (size 1.8 1.8) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.5 4.1) (size 1.8 1.8) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
+  (model /Users/gregose/dev/oal_kicad/models/pheonix-1990973.wrl
+    (at (xyz 0.05 -0.06 -0.006))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 180 0))
+  )
 )

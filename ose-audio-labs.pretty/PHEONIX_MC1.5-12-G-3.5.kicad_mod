@@ -22,4 +22,9 @@
   (pad 10 thru_hole circle (at 12.25 0) (size 1.9 1.9) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at 8.75 0) (size 1.9 1.9) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole circle (at 5.25 0) (size 1.9 1.9) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
+  (model /Users/gregose/dev/oal_kicad/models/1844317.wrl
+    (at (xyz 0.0725 -0.08500000000000001 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 270 0 90))
+  )
 )
