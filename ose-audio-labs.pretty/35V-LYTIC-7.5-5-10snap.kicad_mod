@@ -20,8 +20,8 @@
   (pad 2 thru_hole circle (at 0 5) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at 0 -5) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask F.SilkS))
   (model "/Library/Application Support/kicad/packages3d/Capacitors_ThroughHole.3dshapes/C_Radial_D16_L31.5_P7.5.wrl"
-    (at (xyz -0.15 0 0))
+    (at (xyz 0.15 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
 )
