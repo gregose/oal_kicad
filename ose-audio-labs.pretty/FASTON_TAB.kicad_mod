@@ -12,8 +12,8 @@
   (fp_line (start -5.5 -4.25) (end 5.5 -4.25) (layer F.CrtYd) (width 0.2))
   (pad 1 thru_hole circle (at -2.54 0) (size 2.4 2.4) (drill 1.4) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 2.54 0) (size 2.4 2.4) (drill 1.4) (layers *.Cu *.Mask F.SilkS))
-  (model /Users/gregose/Desktop/faston.wrl
-    (at (xyz 0 0 0.4133858267716536))
+  (model /Users/gregose/dev/oal_kicad/models/TE_1217861-1_FASTON/TE_1217861-1_FASTON.wrl
+    (at (xyz 0 0 0.413386))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )

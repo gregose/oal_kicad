@@ -153,8 +153,8 @@
   (pad 12 thru_hole circle (at 27.94 -22.86) (size 2.3 2.3) (drill 1.5) (layers *.Cu *.SilkS *.Mask))
   (pad 14 thru_hole circle (at 27.94 27.94) (size 2.3 2.3) (drill 1.5) (layers *.Cu *.SilkS *.Mask))
   (pad 13 thru_hole circle (at 27.94 22.86) (size 2.3 2.3) (drill 1.5) (layers *.Cu *.SilkS *.Mask))
-  (model /Users/gregose/Desktop/talema.wrl
-    (at (xyz 0 0 1.417322834645669))
+  (model /Users/gregose/dev/oal_kicad/models/Talema_70000K_15-25VA/Talema_70000K_15-25VA.wrl
+    (at (xyz 0 0 1.417323))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz -90 0 -90))
   )
