@@ -12,6 +12,16 @@ $CMP DIPSW08
 D 8 pole DIP switch
 $ENDCMP
 #
+$CMP Diode_Bridge
+D Diode bridge
+K Graetz
+$ENDCMP
+#
+$CMP KBU4
+D Diode bridge
+K Graetz
+$ENDCMP
+#
 $CMP TPS7A470X
 D TPS7A470x 36-V, 1-A, 4-µVRMS, RF LDO Voltage Regulator
 $ENDCMP
