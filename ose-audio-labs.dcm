@@ -22,6 +22,18 @@ D Diode bridge
 K Graetz
 $ENDCMP
 #
+$CMP LT3029IMSE
+D Dual 500mA/500mA Low Dropout, Low Noise, Micropower Linear Regulator
+K LDO regulator voltage
+F http://cds.linear.com/docs/en/datasheet/3029fb.pdf
+$ENDCMP
+#
+$CMP LT3045EDD
+D 20V, 500mA, Ultralow Noise, Ultrahigh PSRR Linear Regulator
+K Linear regulator
+F http://cds.linear.com/docs/en/datasheet/3045fa.pdf
+$ENDCMP
+#
 $CMP TPS7A470X
 D TPS7A470x 36-V, 1-A, 4-µVRMS, RF LDO Voltage Regulator
 $ENDCMP
